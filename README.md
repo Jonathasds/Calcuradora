@@ -2,5 +2,7 @@
 ## Calculadora criada para aperfeiçoar o JS
 
 
-![Screenshot_20220608-094134_Chrome](https://user-images.githubusercontent.com/83735539/172622064-97cd3d38-f76a-4338-bb7b-552c59cd3695.jpg)
+![Screenshot_20220608-095951_Chrome](https://user-images.githubusercontent.com/83735539/172623095-c2e3a61b-a881-4957-9317-f4c8c295fb2c.jpg)
+
+
 
